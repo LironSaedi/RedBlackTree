@@ -6,8 +6,10 @@ namespace RedBlackTree
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            //// gh
+            /*
+            LeftLeaningRedBlackTree<int> tree = new LeftLeaningRedBlackTree<int>();
+            LeftLeaningRedBlackTree<int>.Node x = tree.Find(2);
+            */
         }
     }
 }
